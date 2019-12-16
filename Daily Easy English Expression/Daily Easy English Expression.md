@@ -1,11 +1,12 @@
 # Daily Easy English Expression
 
-![1-1](media/1-1.png)
-![1-2](media/1-2.png)
-![2-1](media/2-1.png)
-![2-2](media/2-2.png)
-![3](media/3.png)
-![4-1](media/4-1.png)
-![4-2](media/4-2.png)
-![5](media/5.png)
 
+| | theme | 主题|
+| --- | --- | --- |
+| 1 | How are you doing? | 最近怎么样？ |
+| 2 | What do you do for a living? | 你是做什么工作的？ |
+| 3 | be into | 喜欢做某事 |
+| 4 | went out | 受伤 |
+| 5 | What's up this weekend? | 这个周末准备做什么？ |
+| 6 | I'm gonna kick back. | 放松一下 |
+| 7 | sleep in | 睡到自然醒 |
