@@ -1,5 +1,17 @@
 # English Resource List
 
+## 托福
+
+[托福10000](https://www.bilibili.com/video/av31242912)
+
+[TOEFL Listening Test Every Day](https://www.youtube.com/channel/UCCq2yqG8Ou6cl-GDpdgkdqw)
+
+[新东方托福课程](https://www.youtube.com/channel/UC58yhfSRLRtGTydaiSGSA6A/playlists)
+
+[TST PREP——TOEFL Solutions for Open Minds](https://www.youtube.com/channel/UCL0ZOT3eKp4RvKcQyBZJ4bw)
+
+[Learn TOEFL with Daniel](https://www.youtube.com/channel/UCZqh6VE-OYFz2RCWDbZQOqw)
+
 ## 学习方法
 
 [Aboboo使用方法](https://www.bilibili.com/video/av60025637)
@@ -19,8 +31,6 @@
 [常用词组和句式](https://www.bilibili.com/video/av52328930)
 
 ### 曲根词汇班
-
-[托福10000](https://www.bilibili.com/video/av31242912)
 
 [万词班第六季](https://www.bilibili.com/video/av80581721)
 
