@@ -12,3 +12,10 @@
 ![6-2](media/6-2.png)
 ![7](media/7.png)
 
+![8](media/8.png)
+
+![9-1](media/9-1.png)
+
+![9-2](media/9-2.png)
+
+![10](media/10.png)

@@ -10,3 +10,6 @@
 | 5 | What's up this weekend? | 这个周末准备做什么？ |
 | 6 | I'm gonna kick back. | 放松一下 |
 | 7 | sleep in | 睡到自然醒 |
+| 8 | overslept | 睡过头 |
+| 9 | stock up on | 囤货 |
+| 10 | count on | 信任某人，就靠你了 |
