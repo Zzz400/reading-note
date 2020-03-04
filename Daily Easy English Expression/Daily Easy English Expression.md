@@ -13,3 +13,8 @@
 | 8 | overslept | 睡过头 |
 | 9 | stock up on | 囤货 |
 | 10 | count on | 信任某人，就靠你了 |
+| 11 | I had a long week | 我这周好累 |
+| 12 | TGIF Thank god, it's Friday! | 终于周五了 |
+| 13 | That's pure nonsense | 胡扯 |
+| 14 | Did you get out ...| 你去做…了吗？(之前计划的) |
+| 15 | do away with | 摘掉、取掉、拿掉、戒掉… |
